@@ -1,0 +1,88 @@
+**********WELCOME TO SUJAY TOURS AND TRAVELS**********
+The TOUR PACKAGES availabe in our travels are listed below
+1.Australia 
+2.Canada 
+3.United States Of America 
+4.Germany 
+5.Spain
+Choose your desired package by entering the number shown along the package
+1
+THANK YOU for choosing the package
+The places covered in AUSTRALIA package are given below:
+Places covered in SYDNEY:
+Sydney Opera House
+Bondi Beach
+Places covered in CAIRNS:
+Rainforest
+Great Barrier Reef Gateway
+Places covered in PERTH:
+Kings Park
+Fremantle Port
+Places covered in GOLD COAST:
+Surfers Paradise
+Theme park
+Canals
+Places covered in ADELAIDE:
+Renowed Arts Festival
+1869 Food Hall
+Places covered in CANBERRA:
+Parliment House
+Australian War Memorial
+
+Enter the number of people going on tour:
+4
+Total Expenses of 1 person including flight charges:Rs 2,50,000
+Flight offered is SPICE JET
+*****PACKAGE DETAILS*****
+The following table shows the discount offered
+Number of people	 Discount offered in percent
+      1         	              5
+ Couple (2)     	              10
+     3-5        	              15
+     6-10       	              20
+ More than 10   	              35
+
+The package consists of 15 days and 16 nights
+DISCOUNT GIVEN=150000.0
+AMOUNT AFTER DISCOUNT = Rs850000.0
+If you have accepted the above terms and conditions of the package and if you want to confirm your booking, then press 1, else press any other number
+1
+Enter the names of the tourists:
+Suj
+Enter m for MALE and f for female:
+m
+Enter the age:
+16
+Enter the names of the tourists:
+s
+Enter m for MALE and f for female:
+m
+Enter the age:
+12
+Enter the names of the tourists:
+d
+Enter m for MALE and f for female:
+m
+Enter the age:
+13
+Enter the names of the tourists:
+f
+Enter m for MALE and f for female:
+m
+Enter the age:
+17
+**********SUJAY TOURS AND TRAVELS**********
+**********        BILL           **********
+Name	 Gender	 Age:
+Suj	Male	16
+s	Male	12
+d	Male	13
+f	Male	17
+Total number of people:4
+
+TOTAL AMOUNT:Rs1000000.0
+DISCOUNT GIVEN:Rs150000.0
+AMOUNT AFTER DISCOUNT:Rs850000.0
+THANK YOU FOR CHOOSING OUR TOURS AND TRAVELS
+WISH YOU A HAPPY AND SAFE JOURNEY
+********************************************
